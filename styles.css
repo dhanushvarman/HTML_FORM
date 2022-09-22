@@ -1,0 +1,43 @@
+table{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    background-color:azure;
+}
+td,th{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+#heading{
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: blueviolet;
+    color:white;
+}
+
+.form{
+    color: darkblue;
+    font-weight: bold;
+}
+
+td{
+    background-color: white;
+    color: red;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+.checkbox{
+    margin: 0px !important;
+}
+
+button{
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+}
